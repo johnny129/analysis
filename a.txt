@@ -69,17 +69,17 @@
             "name": "🚀老刘备线路"
         },
         {
-          "url": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json",
-          "name": "supermeguo18🈲"
+            "url": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json",
+            "name": "supermeguo18🈲"
         },
         {
-          "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json",
-          "name": "bizhangjie🈲1"
-        
+            "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json",
+            "name": "bizhangjie🈲1"
+        },
         {
-          "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json",
-          "name": "bizhangjie🈲2"
-      },
+            "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json",
+            "name": "bizhangjie🈲2"
+        },
         {
             "url": "https://weixine.net/ysc.json",
             "name": "🚀运输车(有跑马灯)"
