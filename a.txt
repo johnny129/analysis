@@ -1,11 +1,21 @@
-//此多仓接口列表为公众号【多多影音】作者大聪明为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
-//转载请注明出处
 {
     "urls": [
         {
             "url": "http://yydsys.top/duo/v.json",
             "name": "🚨软件接口均免费严禁贩卖🚨"
         },
+        {
+            "url": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json",
+            "name": "supermeguo18🈲"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json",
+            "name": "bizhangjie🈲1"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json",
+            "name": "bizhangjie🈲2"
+        }
         {
             "url": "http://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
