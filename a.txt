@@ -1,5 +1,3 @@
-//此多仓接口列表为公众号【多多影音】作者大聪明为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
-//转载请注明出处
 {
     "urls": [
         {
@@ -79,9 +77,9 @@
           "name": "bizhangjie🈲1"
         
         {
-      "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json",
-      "name": "bizhangjie🈲2"
-        },
+          "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/index18.json",
+          "name": "bizhangjie🈲2"
+      },
         {
             "url": "https://weixine.net/ysc.json",
             "name": "🚀运输车(有跑马灯)"
