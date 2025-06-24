@@ -1,0 +1,94 @@
+[2025-05-27 15:19:20] 成功连接到正在运行的Excel实例
+[2025-05-27 15:19:20] 已连接工作簿: 翻译.xlsx
+[2025-05-27 15:19:35] 工作表 [15-1] 形状 [文本框 9]：擦拭
+LCD Limpieza de LCD → 擦拭$LCD Limpieza de LCD
+[2025-05-27 15:19:35] 工作表 [15-1] 形状 [文本框 10]：擦拭LCD屏幕时需要从左往右，从上往下之顺序进行擦拭 
+Al limpiar la pantalla LCD, hágalo en orden de izquierda a derecha y de arriba hacia abajo → 擦拭LCD屏幕时需要从左往右，从上往下之顺序进行擦拭 $Al limpiar la pantalla LCD, hágalo en orden de izquierda a derecha y de arriba hacia abajo
+[2025-05-27 15:19:35] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:35] 操作完成！共完成 2 处替换
+[2025-05-27 15:19:35] 日志文件已保存至: E:\py\py\excelTH\operation_logs\replace_log_20250527_151935.txt
+[2025-05-27 15:19:40] 处理单元格出错：No module named 'win32timezone'
+[2025-05-27 15:19:40] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:40] 工作表 [2-1] 形状 [圓角矩形圖說文字 78]：满箱后的小标签贴附在静电箱图示位置。
+Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática. → 满箱后的小标签贴附在静电箱图示位置。$Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática.
+[2025-05-27 15:19:40] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:40] 工作表 [3-1] 形状 [圓角矩形圖說文字 78]：满箱后的小标签贴附在静电箱图示位置。
+Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática. → 满箱后的小标签贴附在静电箱图示位置。$Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática.
+[2025-05-27 15:19:40] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:40] 工作表 [4-1] 形状 [圓角矩形圖說文字 78]：满箱后的小标签贴附在静电箱图示位置。
+Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática. → 满箱后的小标签贴附在静电箱图示位置。$Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática.
+[2025-05-27 15:19:40] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:40] 工作表 [5-1] 形状 [圓角矩形圖說文字 78]：满箱后的小标签贴附在静电箱图示位置。
+Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática. → 满箱后的小标签贴附在静电箱图示位置。$Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática.
+[2025-05-27 15:19:40] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:41] 工作表 [6-1] 形状 [圓角矩形圖說文字 78]：满箱后的小标签贴附在静电箱图示位置。
+Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática. → 满箱后的小标签贴附在静电箱图示位置。$Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática.
+[2025-05-27 15:19:41] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:41] 工作表 [7-1] 形状 [圓角矩形圖說文字 78]：满箱后的小标签贴附在静电箱图示位置。
+Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática. → 满箱后的小标签贴附在静电箱图示位置。$Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática.
+[2025-05-27 15:19:41] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:41] 工作表 [8-1] 形状 [圓角矩形圖說文字 78]：满箱后的小标签贴附在静电箱图示位置。
+Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática. → 满箱后的小标签贴附在静电箱图示位置。$Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática.
+[2025-05-27 15:19:41] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:41] 工作表 [9-1] 形状 [圓角矩形圖說文字 78]：满箱后的小标签贴附在静电箱图示位置。
+Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática. → 满箱后的小标签贴附在静电箱图示位置。$Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática.
+[2025-05-27 15:19:41] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:41] 工作表 [10-1] 形状 [圓角矩形圖說文字 78]：满箱后的小标签贴附在静电箱图示位置。
+Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática. → 满箱后的小标签贴附在静电箱图示位置。$Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática.
+[2025-05-27 15:19:41] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:41] 工作表 [11-1] 形状 [圓角矩形圖說文字 78]：满箱后的小标签贴附在静电箱图示位置。
+Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática. → 满箱后的小标签贴附在静电箱图示位置。$Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática.
+[2025-05-27 15:19:41] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:41] 工作表 [12-1] 形状 [圓角矩形圖說文字 78]：满箱后的小标签贴附在静电箱图示位置。
+Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática. → 满箱后的小标签贴附在静电箱图示位置。$Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática.
+[2025-05-27 15:19:41] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:41] 工作表 [13-1] 形状 [圓角矩形圖說文字 78]：满箱后的小标签贴附在静电箱图示位置。
+Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática. → 满箱后的小标签贴附在静电箱图示位置。$Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática.
+[2025-05-27 15:19:41] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:41] 工作表 [14-1] 形状 [圓角矩形圖說文字 78]：满箱后的小标签贴附在静电箱图示位置。
+Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática. → 满箱后的小标签贴附在静电箱图示位置。$Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática.
+[2025-05-27 15:19:41] 工作表 [14-1] 形状 [文本框 6]：擦拭Lower
+Limpiar la parte inferior → 擦拭Lower$Limpiar la parte inferior
+[2025-05-27 15:19:41] 工作表 [14-1] 形状 [文本框 7]：擦拭COVER
+Limpieza de cubierta → 擦拭COVER$Limpieza de cubierta
+[2025-05-27 15:19:41] 工作表 [14-1] 形状 [文本框 8]：擦拭Upper面
+Limpiar la superficie superior → 擦拭Upper面$Limpiar la superficie superior
+[2025-05-27 15:19:41] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:41] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:42] 工作表 [16-1] 形状 [圓角矩形圖說文字 78]：满箱后的小标签贴附在静电箱图示位置。
+Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática. → 满箱后的小标签贴附在静电箱图示位置。$Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática.
+[2025-05-27 15:19:42] 工作表 [16-1] 形状 [文本框 11]：左
+Izquierda → 左$Izquierda
+[2025-05-27 15:19:42] 工作表 [16-1] 形状 [文本框 12]：右
+Derecha → 右$Derecha
+[2025-05-27 15:19:42] 工作表 [16-1] 形状 [文本框 13]：套PE袋：一半左右
+Coloque la bolsa PE: aproximadamente la mitad → 套PE袋：一半左右$Coloque la bolsa PE: aproximadamente la mitad
+[2025-05-27 15:19:42] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:42] 工作表 [17-1] 形状 [圓角矩形圖說文字 78]：满箱后的小标签贴附在静电箱图示位置。
+Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática. → 满箱后的小标签贴附在静电箱图示位置。$Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática.
+[2025-05-27 15:19:42] 工作表 [17-1] 形状 [圓角矩形圖說文字 78]：束带Dell Logo需正方向放置
+La correa con el logo de Dell debe colocarse en la dirección positiva → 束带Dell Logo需正方向放置$La correa con el logo de Dell debe colocarse en la dirección positiva
+[2025-05-27 15:19:42] 工作表 [17-1] 形状 [文本框 14]：装PE袋
+Introducirla en la bolsa PE → 装PE袋$Introducirla en la bolsa PE
+[2025-05-27 15:19:42] 工作表 [17-1] 形状 [文本框 15]：PE袋封口
+Sellado de bolsa PE → PE袋封口$Sellado de bolsa PE
+[2025-05-27 15:19:42] 工作表 [17-1] 形状 [圓角矩形圖說文字 78]：说明书Dell Logo朝右放置
+Coloque el manual con el logo de Dell hacia la derecha → 说明书Dell Logo朝右放置$Coloque el manual con el logo de Dell hacia la derecha
+[2025-05-27 15:19:42] 工作表 [17-1] 形状 [圓角矩形圖說文字 78]：说明书Del Logo朝左上角放置
+Coloque el manual con el logo de Dell en la esquina superior izquierda → 说明书Del Logo朝左上角放置$Coloque el manual con el logo de Dell en la esquina superior izquierda
+[2025-05-27 15:19:42] 工作表 [17-1] 形状 [圓角矩形圖說文字 78]：束带Dell Logo需正方向放置
+La correa con el logo de Dell debe colocarse en la dirección positiva → 束带Dell Logo需正方向放置$La correa con el logo de Dell debe colocarse en la dirección positiva
+[2025-05-27 15:19:42] 工作表 [17-1] 形状 [文本框 20]：电源
+Fuente de alimentación → 电源$Fuente de alimentación
+[2025-05-27 15:19:42] 工作表 [17-1] 形状 [文本框 21]：USB接口、电源线、干燥剂
+Puerto USB, cable de alimentación, desecante → USB接口、电源线、干燥剂$Puerto USB, cable de alimentación, desecante
+[2025-05-27 15:19:42] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:42] 工作表 [18-1] 形状 [圓角矩形圖說文字 78]：满箱后的小标签贴附在静电箱图示位置。
+Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática. → 满箱后的小标签贴附在静电箱图示位置。$Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática.
+[2025-05-27 15:19:42] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:42] 工作表 [19-1] 形状 [圓角矩形圖說文字 78]：满箱后的小标签贴附在静电箱图示位置。
+Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática. → 满箱后的小标签贴附在静电箱图示位置。$Después de llenar la caja, coloque la etiqueta pequeña en la posición indicada en el diagrama de la caja antiestática.
+[2025-05-27 15:19:42] 工作表 [19-1] 形状 [圓角矩形圖說文字 78]：看到此字样,标识该机台需要打印Packing slip，将该机台抱下放到待放Packing slip检板上
+Al ver este texto, significa que esta máquina necesita imprimir el Packing slip; baje la máquina y colóquela en la plataforma de inspección de Packing slip pendiente → 看到此字样,标识该机台需要打印Packing slip，将该机台抱下放到待放Packing slip检板上$Al ver este texto, significa que esta máquina necesita imprimir el Packing slip; baje la máquina y colóquela en la plataforma de inspección de Packing slip pendiente
+[2025-05-27 15:19:42] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:42] 操作完成！共完成 32 处替换

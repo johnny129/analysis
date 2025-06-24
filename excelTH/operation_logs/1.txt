@@ -1,0 +1,8 @@
+[2025-05-27 15:19:20] 成功连接到正在运行的Excel实例
+[2025-05-27 15:19:20] 已连接工作簿: 翻译.xlsx
+[2025-05-27 15:19:35] 工作表 [15-1] 形状 [文本框 9]：擦拭
+LCD Limpieza de LCD → 擦拭$LCD Limpieza de LCD
+[2025-05-27 15:19:35] 工作表 [15-1] 形状 [文本框 10]：擦拭LCD屏幕时需要从左往右，从上往下之顺序进行擦拭 
+Al limpiar la pantalla LCD, hágalo en orden de izquierda a derecha y de arriba hacia abajo → 擦拭LCD屏幕时需要从左往右，从上往下之顺序进行擦拭 $Al limpiar la pantalla LCD, hágalo en orden de izquierda a derecha y de arriba hacia abajo
+[2025-05-27 15:19:35] 处理ActiveX控件出错：'method' object is not iterable
+[2025-05-27 15:19:35] 操作完成！共完成 2 处替换
